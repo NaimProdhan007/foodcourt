@@ -1,0 +1,95 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+}
+
+/*1st portion*/
+
+h1 {
+  font-size: 40px;
+}
+.s-colour {
+  color: darkorange;
+}
+.half-width {
+  width: 50%;
+  padding-left: 3%;
+}
+.half-width img {
+  width: 90%;
+}
+.link-button {
+  text-decoration: none;
+  color: aliceblue;
+  background-image: linear-gradient(orange, tomato);
+  margin-top: 10px;
+  padding: 10px 40px;
+  border-radius: 20px;
+}
+.st-bt {
+  margin-top: 70px;
+}
+section {
+  display: flex;
+  margin-bottom: 55px;
+}
+/*about me portion*/
+.about {
+  background-image: url(images/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  padding-top: 30px;
+}
+.ab {
+  font-size: 52px;
+}
+.ab-pra {
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 26px;
+}
+
+.res-1 {
+  text-align: center;
+}
+.res-1 p {
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 29px;
+}
+.last-food {
+  display: flex;
+}
+
+.food-1 {
+  text-align: justify;
+  width: 30%;
+  box-shadow: 10px 10px 40px grey;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 1%;
+  border-radius: 5%;
+}
+.food-1 h3 {
+  text-align: center;
+}
+/* footer section*/
+footer {
+  background-color: black;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.footer p {
+  color: floralwhite;
+  padding-top: 0;
+  padding-bottom: 48px;
+}
+.footer h4 {
+  color: darkgrey;
+  font-size: 25px;
+  letter-spacing: 2px;
+  padding-top: 32px;
+  padding-bottom: 0;
+}
+.f-cl {
+  color: darkorange;
+}
